@@ -1,5 +1,4 @@
-import React from 'react'
-import { useState } from 'react';
+import React, { useState } from 'react'
 import { FaFacebookF, FaWhatsapp, FaTwitter, FaInstagram } from "react-icons/fa";
 import axios from 'axios';
 import { ImLocation, ImMail2, ImPhone } from "react-icons/im";
