@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Condiment-Regular
+font link: https://fonts.google.com/specimen/Condiment
+font author: Sudtipos
+font author site: https://www.sudtipos.com/
+Slogan Font: LindenHill-webfont.ttf
+
+icon designer: Larisa Skosyrska
+icon designer link: /Lara.Skosyrska
+        
+{"bg":"transparent","icon":"#488eff","font":"#2e3034","slogan":"#424448"}
+      

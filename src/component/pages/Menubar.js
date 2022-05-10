@@ -28,11 +28,9 @@ const Menubar = () => {
                     <header>
                         <Navbar expand={true}>
                             <Container>
-
                                 <Navbar.Brand className='main-logo'><span>L</span>OGO</Navbar.Brand>
                                 <div className='abc'>
                                     <Nav className="me-auto">
-                                        {/* <Nav.Link href="#about1">Home</Nav.Link> */}
                                         <Nav.Link href="#about">About</Nav.Link>
                                         <Nav.Link href="#service">Services</Nav.Link>
                                         <Nav.Link href="#team">Teams</Nav.Link>

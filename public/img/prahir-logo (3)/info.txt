@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Gondola_SD
+font link: http://www.deffeyes.com/popups/type/gondola.html
+font author: Steve Deffeyes
+font author site: http://www.deffeyes.com/
+Slogan Font: SpaceMono-Regular.ttf
+
+icon designer: Alfredo @ IconsAlfredo.com
+icon designer link: /AlfredoCreates
+        
+
+fontColor: {"hex":"#0C1096"}
+bgColor: {"hex":"#FFFFFF"}
+iconColor: {"hex":"#0C1096"}
+sloganColor: {"hex":"#45F908"}
+      
